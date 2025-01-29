@@ -12,22 +12,22 @@
 - [Questions](#questions)
 
 ## Description 
-To allow an easier method to creating a README
+As a developer i wanted to create an easier way for fellow developers to create a READEME using their terminal, so they can have an quicker more efficient way to create a quality README.
 
 ## Installation
-in your terminal type node index.js
+THe necessary items for installation to run the application is inquirer,fs, & util
 
 ## Usage
-run the app in terminal using gitbash
+To use the application run in terminal/gitbash once necessary files are installed and answer prompted questions.
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contribution
-N/A
+Helping new programmers like myself create a README, enhance project efficiency.
 
 ## Test
-type node index.js in terminal and answer promted questions
+Run node index.js in bash terminal.
 
 ## Questions
-If you have any questions, please contact me at jessy_villarreal@yahoo.com. You can also find me on GitHub at [Jessyav]
+If you have any questions, please contact me at Jessy_villarreal@yahoo.com. You can also find me on GitHub at Jessyav
