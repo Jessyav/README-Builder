@@ -1,5 +1,13 @@
 {
+  "name": "readme-builder",
+  "version": "1.0.0",
+  "description": "A README generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
-    "inquirer": "^12.3.3"
+    "inquirer": "^8.2.4"
   }
 }
