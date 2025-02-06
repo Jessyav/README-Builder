@@ -44,7 +44,7 @@ ${data.contribution}
 ${data.test}
 
 ## Questions
-If you have any questions, please contact me at [${data.email}]. You can also find me on GitHub at [${data.github}](https://github.com/${data.github})
+If you have any questions, please contact me at ${data.email}. You can also find me on GitHub at [${data.github}](https://github.com/${data.github})
 `;
 }
 
